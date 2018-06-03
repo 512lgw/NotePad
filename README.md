@@ -1,7 +1,6 @@
 # NotePad
 ## 1.基本功能
-##### BUG提示
-##### 由于兼容性问题，该项目在更改主题美化UI后，出现部分版本android系统进入笔记本编辑界面无法弹出键盘的情况，此时无法输入任何内容，遇到该问题，目前发现，在AS自带虚拟机下可以通过笔记本键盘输入内容。genymotion似乎无法支持。
+
 
 ###  ①.时间戳显示
 ![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/timestamp.png)
