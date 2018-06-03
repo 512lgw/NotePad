@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+   <!-- <item
+        android:id="@+id/menu_save_before_revert"
+        android:title="Save before revert"
+        />-->
+   <!-- <item
+        android:id="@+id/menu_revert_by_setp"
+        android:title="Revert By Step"
+        app:showAsAction="always"/>-->
+
+    <item
+        android:id="@+id/menu_save"
+        android:alphabeticShortcut='s'
+        android:icon="@drawable/ic_menu_save"
+        android:title="@string/menu_save"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/menu_revert"
+        android:icon="@drawable/ic_menu_revert"
+        android:title="@string/menu_revert"/>
+    <item
+        android:id="@+id/menu_delete"
+        android:icon="@drawable/ic_menu_delete"
+        android:title="@string/menu_delete"
+        app:showAsAction="ifRoom|withText"/>
+</menu>

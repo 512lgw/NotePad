@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <!--  This is our one standard application action (creating a new note). -->
+    <item
+        android:id="@+id/menu_add"
+        android:alphabeticShortcut='a'
+        android:icon="@drawable/ic_menu_compose"
+        android:title="@string/menu_add"
+        app:showAsAction="always"/>
+    <!--  If there is currently data in the clipboard, this adds a PASTE menu item to the menu
+          so that the user can paste in the data.. -->
+    <item
+        android:id="@+id/menu_paste"
+        android:alphabeticShortcut='p'
+        android:icon="@drawable/ic_menu_compose"
+        android:title="@string/menu_paste"/>
+   <!-- <item
+        android:id="@+id/reset_passward"
+        android:title="重设锁屏密码"/>-->
+
+    <item
+        android:id="@+id/menu_search"
+        android:title="查询"
+        >
+        <menu>
+            <item
+                android:id="@+id/menu_serach_input"
+                android:icon="@drawable/search"
+                android:title="精准查询"
+                />
+            <item
+                android:id="@+id/menu_search_vague"
+                android:icon="@drawable/search"
+                android:title="模糊查询"
+                />
+
+        </menu>
+    </item>
+</menu>

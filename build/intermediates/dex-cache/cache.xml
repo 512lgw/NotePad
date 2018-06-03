@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\songlei\.gradle\caches\modules-2\files-2.1\com.idescout.sql\sqlscout-server\2.0\a2dfa335149207732dc1297ebaf9270be88f67f4\sqlscout-server-2.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="a2dfa335149207732dc1297ebaf9270be88f67f4">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\sqlscout-server-2.0_8e02887fdbbb37964926ec03d837608a6564f74c.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_36cb4a81097a0225f3a1c12b7441d1a4c4717fbf.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_a19bdc7b67f8546c8d74039e05f337005c9cff27.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_b62f3b2f65d357b2bb76c9807716cb71f63ca5a8.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_a5ce04f248491b51c9f5ba5bb56692edf3a98cf7.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_6d20971b858dee114ee3e16205373986f6010e82.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_9fda52c272df02f011fca591d3afa2f80812c907.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_02dca7613fca281c081433f179af9397e5e63635.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_3ab0d8d73ad3345c0dab50aab7cfff491230f51c.jar" />
+    </item>
+    <item
+        jar="C:\Users\songlei\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_bb8fe07c558248324e84285f5d8d5f59e829e6c5.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_e2b37b303d3c8b533f3144130182b437b6003ebf.jar" />
+    </item>
+    <item
+        jar="G:\NotePad\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_a27948ddaf8b32db60f2dd95bfac943026bdec3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\songlei\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\NotePad\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_989a03068a5e861ad6bded830f154397129c5b34.jar" />
+    </item>
+
+</items>
