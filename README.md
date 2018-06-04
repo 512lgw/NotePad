@@ -44,8 +44,8 @@
 ###  ②.按标题查询功能
 ## 提供两种模式
 ### 1.精确搜索：实现了输入准确标题弹出该笔记的功能。
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/exa_search.png)
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/exa_search_res.png)
+![](https://github.com/SOURAI09/NotePad/blob/master/img/05d0dbe3c310b10ff54953715d7ec4f.png)
+![](https://github.com/SOURAI09/NotePad/blob/master/img/yyp.png)
 
  #### 实现思路：我模仿原项目中Listview的item点击跳转，先查询全部结果，最后从结果中**获取标题对应列**的值与**输入的标题**匹配，返回匹配项的**id**（即数据库的第一列 主键_id），通过```ContentUris.withAppendedId```添加到uri末尾。
 
