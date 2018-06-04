@@ -80,13 +80,13 @@
     }
  ```
 ### 2.模糊搜索
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/search_vague.png)
+![](https://github.com/SOURAI09/NotePad/blob/master/img/1528081133(1).png)
 
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/search_vague_input.png)
+![](https://github.com/SOURAI09/NotePad/blob/master/img/%E6%A8%A1%E7%B3%8A%E4%BB%8E%E6%9F%A5%E8%AF%A2.png)
 
 ##### 出现以y开头的搜索结果 
 
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/search_vague_result.png)
+![](https://github.com/SOURAI09/NotePad/blob/master/img/%E6%A8%A1%E7%B3%8A%E7%BB%93%E6%9E%9C.png)
 
 #### 实现思路
 
