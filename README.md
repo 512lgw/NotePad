@@ -132,7 +132,7 @@ final EditText et = new EditText(this);
 
 ##### 演示如下
 
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/noteslist.png)
+![](https://github.com/SOURAI09/NotePad/blob/master/img/a50dcb261908124971590b87600ce1a.png)
 
 ###  3.按步撤销功能
 
