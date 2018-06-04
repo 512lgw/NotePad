@@ -3,7 +3,7 @@
 
 
 ###  ①.时间戳显示
-![](https://github.com/SOURAI09/NotePad/img/8f1f9481ab28ba983668ec852dacbfb.png)
+![](https://github.com/SOURAI09/NotePad/blob/master/img/8f1f9481ab28ba983668ec852dacbfb.png)
 
   笔记**创建**和**修改**的时间戳已经在数据库中保存，我直接把数据库查询结果通过 ```SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss aa")```将式转换为年月日时分秒AM/PM形式保存，然后插入数据库
 
