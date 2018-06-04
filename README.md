@@ -141,17 +141,7 @@ final EditText et = new EditText(this);
 #### BUG提示
 ##### 如果在刚进入编辑界面的时候未点击保存直接点击撤销，可能会遇到一些问题（闪退或内容成空）。所以：请记得先点击保存
 
-演示如下
-##### 撤销前先点击保存记录
-
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/save_before_revert.png)
-
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/revert_1.png)
-
-![](https://github.com/que123567/NotePad/blob/master/app/src/main/res/drawable/revert_2.png)
-
 ** 基于备忘录模式，自定义控件NoteEdittext继承自EditText，增加了可以保存历史文本内容的功能 **
-
 
 ```
 public class Memento {
